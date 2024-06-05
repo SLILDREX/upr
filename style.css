@@ -1,0 +1,14 @@
+body{
+    width: 1000px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: #fce7ab;
+    height: 250px;
+}
+header h1{
+    text-align: center;
+    color:  #df1d01;
+    font-size: 34px;
+    position: absolute;
+}
